@@ -102,6 +102,11 @@ input:focus {
   margin-bottom: 60px;
 }
 
+#login__form {
+  display: flex;
+  flex-direction: column;
+}
+
 #quote {
   margin-top: 40px;
   text-align: center;
